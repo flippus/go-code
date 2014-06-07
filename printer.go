@@ -10,7 +10,7 @@ func sender(c chan int) {
 
 func printer(c chan int) {
     for i := range c {
-        fmt.Println("message received ", i)
+        fmt.Println("message received:", i)
     }
 }
 
