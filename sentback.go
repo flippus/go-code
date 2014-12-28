@@ -28,3 +28,4 @@ func main() {
     go sender(receiverChannel, senderChannel)
     printer(senderChannel, receiverChannel)
 }
+
