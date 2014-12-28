@@ -1,5 +1,6 @@
+// The MIT License (MIT)
+// Copyright (c) 2014 Philipp Neugebauer
 package main
-
 
 import (
     "bufio"
